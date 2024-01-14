@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/dipra/Documents/university-management-auth-service/logs/winston/.e8f2fdeae7c55f2fc0604673bee64ec18341e590-audit.json",
+    "files": [
+        {
+            "date": 1705255189333,
+            "name": "/Users/dipra/Documents/university-management-auth-service/logs/winston/phu-2024-01-14-23-error.log",
+            "hash": "e75827416dc0eb67a41f5ea453f13661b6e074a068c4b0b756dee556f99374f7"
+        }
+    ],
+    "hashType": "sha256"
+}
